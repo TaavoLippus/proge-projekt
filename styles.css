@@ -1,0 +1,19 @@
+
+.child{
+    float: left;
+    
+}
+#kvoot{
+    position: absolute;
+    top: 75px;
+    left: 300px;
+    width: 800px;
+}
+.button{
+    position: absolute;
+    bottom: 1000px;
+}
+body{
+    color: white;
+}
+*{zoom: 109%;}
